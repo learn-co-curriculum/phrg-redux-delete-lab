@@ -22,3 +22,4 @@ We are starting off with our work from the previous lab, a React/Redux app that 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/redux-delete-lab'>Redux Delete Lab</a> on Learn.co and start learning to code for free.</p>
 
+<p data-visibility='hidden'>PHRG Set List Lab</p>
